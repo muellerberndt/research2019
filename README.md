@@ -9,6 +9,7 @@
 
 - [Advanced in automated smart contract vulnerability detection and exploitation](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
 - Some updates to [Scrooge-MEtherface](https://github.com/b-mueller/scrooge-mcetherface)
+- [Karl](https://github.com/cleanunicorn/karl/), [Theo](https://github.com/cleanunicorn/theo/)
 
 ## Mutation Testing (Joran)
 
