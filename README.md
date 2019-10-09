@@ -8,7 +8,8 @@
 - [Harvey: A Greybox Fuzzer for Smart Contracts](https://arxiv.org/pdf/1905.06944)
 
 ### Articles
-- [https://medium.com/consensys-diligence/detecting-reentrancy-issues-in-smart-contracts-using-fuzzing-e81474ba3a2e](https://medium.com/consensys-diligence/detecting-reentrancy-issues-in-smart-contracts-using-fuzzing-e81474ba3a2e)
+
+- [Detecting Reentrancy Issues in Smart Contracts Using Fuzzing](https://medium.com/consensys-diligence/detecting-reentrancy-issues-in-smart-contracts-using-fuzzing-e81474ba3a2e)
 
 ## Symbolic Execution / DEFCON 27 (Bernhard & Daniel)
 
