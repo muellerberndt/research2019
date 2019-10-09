@@ -1,5 +1,11 @@
 # research2019
 
+## Mutation Testing (Joran)
+
+- [Vertigo](https://github.com/joranhonig/vertigo)
+- [Vertigo Introducion](https://medium.com/@joran.honig/introduction-into-mutation-testing-d6512dc702b0)
+- [Vertigo paper](Practical Mutation Testing for Smart Contracts)
+
 ## Harvey Fuzzer (Valentin)
 
 ### Papers
@@ -16,12 +22,6 @@
 - [Advanced in automated smart contract vulnerability detection and exploitation](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
 - Some updates to [Scrooge-MEtherface](https://github.com/b-mueller/scrooge-mcetherface)
 - [Karl](https://github.com/cleanunicorn/karl/), [Theo](https://github.com/cleanunicorn/theo/)
-
-## Mutation Testing (Joran)
-
-- [Vertigo](https://github.com/joranhonig/vertigo)
-- [Vertigo Introducion](https://medium.com/@joran.honig/introduction-into-mutation-testing-d6512dc702b0)
-- [Vertigo paper](Practical Mutation Testing for Smart Contracts)
 
 ## Others
 
